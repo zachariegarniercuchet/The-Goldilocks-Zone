@@ -1,0 +1,8 @@
+torch
+torchvision
+scipy
+numpy
+tqdm
+notebook
+matplotlib
+-e git+https://github.com/noahgolmant/pytorch-hessian-eigenthings.git@master#egg=hessian-eigenthings
